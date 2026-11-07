@@ -1,4 +1,4 @@
-# InstaViral AI – Intelligent Video Analyser and Content Optimiser for Instagram Reels
+# InstaViral AI – Intelligent Video Analyzer and Content Optimiser for Instagram Reels
 
 ## Project Overview
 
