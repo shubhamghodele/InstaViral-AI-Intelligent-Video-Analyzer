@@ -1,0 +1,45 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Temporary video processing files
+temp/*
+!temp/.gitkeep
+
+# Uploaded user videos
+uploads/*
+!uploads/.gitkeep
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Root test media files
+WhatsApp*.mp4
+test_*.mp4
+test_*.wav
+
+# Generated results
+live_result.json
