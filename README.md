@@ -155,5 +155,3 @@ Open the application:
 GitHub: [@shubhamghodele](https://github.com/shubhamghodele)
 
 ---
-
-*This project was developed for academic purposes as an AI-powered video analysis and content optimisation application.*
